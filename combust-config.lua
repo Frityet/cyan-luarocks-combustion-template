@@ -87,11 +87,4 @@ return {
     },
 
     output_format = "self-extract",
-
-    app_info = {
-        name = "combust",
-        version = "0.1.0",
-        identifier = "net.frityet.combust",
-        icon = nil,
-    }
 }
