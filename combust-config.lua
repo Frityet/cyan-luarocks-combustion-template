@@ -38,13 +38,13 @@ return {
 
     --Lua module search paths, will recursively search for .lua files
     path = {
-        "lua_modules/share/lua/5.4/",
+        "lua_modules/share/lua/5.1/",
         "build/"
     },
 
     --Lua module cpath, will recursively search for .so files
     cpath = {
-        "lua_modules/lib/lua/5.4/",
+        "lua_modules/lib/lua/5.1/",
     },
 
     lua = {
